@@ -1,0 +1,28 @@
+{
+    "name": "Example model for setting up Jenkins pipeline",
+    "models": [
+        {
+            "name": "ExampleModel",
+            "generator": "random(never)",
+            "startElementId": "v1",
+            "vertices": [
+                {
+                    "id": "v1",
+                    "name": "v_start"
+                },
+                {
+                    "id": "v2",
+                    "name": "v_end"
+                }
+            ],
+            "edges": [
+                {
+                    "id": "e1",
+                    "name": "e_transition",
+                    "sourceVertexId": "v1",
+                    "targetVertexId": "v2"
+                }
+            ]
+        }
+    ]
+}

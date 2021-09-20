@@ -1,2 +1,3 @@
 # altwalker-jenkins-dotnet-example
-An example of a simple Jenkins Pipeline for AltWalker. 
+
+An example of a simple Jenkins Pipeline for AltWalker.
