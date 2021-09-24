@@ -1,5 +1,5 @@
 {
-    "name": "Example model for setting up Jenkins pipeline",
+    "name": "Example models for the Jenkins Pipeline",
     "models": [
         {
             "name": "ExampleModel",
